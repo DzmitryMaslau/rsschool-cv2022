@@ -28,7 +28,7 @@ To get a job offer as Junior Software Engineer
 
 • Git, GitHub
 
-• Adobe Photoshop, Illustrator, Figma
+• Adobe Illustrator, Figma
 
 ## Code example:
 
