@@ -45,7 +45,12 @@
   margin-left: 40%;
  margin-bottom: 50px;
   }
-
+.sv {
+  margin-left: 0%;
+  width: 200px;
+  height: 200px;
+border: dotted
+}
 .footer {
   display: flex;
  justify-content: space-evenly;
